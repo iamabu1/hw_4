@@ -1,0 +1,60 @@
+/* TAG selector */
+h1{
+    color:rgb(173, 100, 113);
+    font-size:55px;
+}
+/* img {
+  background-color: lightcoral;
+} */
+.panda{
+    background-color: blueviolet;
+    height: 400px;
+}
+.panda:hover{
+    color: gold;
+    border-radius: 100px;
+    transition: 2s;
+}
+.panda{
+    background-color: blueviolet;
+    height: 400px;
+    border-bottom: firebrick;
+}
+.rounded{
+    border-radius: 100%;
+}
+
+ #head{
+     color: green;
+
+ }
+ .tiger{
+     background-color: greenyellow;
+     height: 400px;
+     transition: 1s;
+ }
+ .tiger:hover{
+    background-color: red;
+    transition: 2s;
+   
+}
+ 
+}
+ .p1:hover{
+     color: lightseagreen;
+     font-size: 30px;
+     transition: 2s;
+ }
+ .paragraph:hover{
+     color: maroon;
+     font-size: 30px;
+     transition: 3s;
+ }
+ .likee:hover{
+     color: midnightblue;
+     font-size: 30px;
+ }
+ #head1{
+     color: goldenrod;
+     font-size: 30px;
+ }
